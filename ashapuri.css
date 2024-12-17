@@ -1,0 +1,56 @@
+
+<style>
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    .neubar {
+        background-color: rgba(191, 221, 191, 0.429)  ;
+        height: 150px;
+        width: 100%;
+        padding-top: 25px;
+        padding-left: 10px;
+        margin-top: -50px;
+    }
+
+    .link {
+        margin-top: -105px;
+        margin-right: 20px;
+
+    }
+
+    .link a {
+        text-decoration: none;
+        float: right;
+        padding: 20px;
+        font-size: 25px;
+        color: darkblue;
+    }
+
+    .fa-phone {
+        color: darkgreen;
+    }
+
+    .fa-house {
+        color: brown;
+    }
+
+    .fa-solid:hover {
+        font-size: 30px;
+        transition: 500ms;
+    }
+
+    .logo img {
+        height: 100px;
+        width: 400px;
+
+    }
+    .carousel-inner
+    {
+        height: 600px;
+        width: 500px;
+        margin-left: 500px;
+        background-size: cover;
+    }
